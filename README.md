@@ -53,6 +53,11 @@ Last Updated: Tuesday, October 5th, 2021, 12:17:37 PM
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OLI dApps Portal](https://medium.com/oli-systems/oli-dapps-portal-5bff38dc127b?source=rss-2e0293066814------2)
+- [Dynamically Building Nested List from JSON data and Tree view with CSS3](https://medium.com/oli-systems/dynamically-building-nested-list-from-json-data-and-tree-view-with-css3-2ee75b471744?source=rss-2e0293066814------2)
+- [Getting Started with LaTeX](https://levelup.gitconnected.com/getting-started-with-latex-d818c90585f?source=rss-2e0293066814------2)
+- [Building dApp’s Backend with Node.js and Webpack](https://medium.com/oli-systems/building-dapps-backend-with-node-js-and-webpack-311cda224da5?source=rss-2e0293066814------2)
+- [The Joy of Building Snaps for Python Applications](https://medium.com/oli-systems/the-joy-of-building-snaps-for-python-applications-4fa35c36b1a3?source=rss-2e0293066814------2)
 <!-- BLOG-POST-LIST:END -->
 
 
