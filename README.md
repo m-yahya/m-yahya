@@ -34,22 +34,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
-
-### :zap: Recent Activity
-
-<!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [m-yahya/m-yahya](https://github.com/m-yahya/m-yahya)
-2. 🔱 Forked [m-yahya/codeSTACKr](https://github.com/m-yahya/codeSTACKr) from [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-3. 🔱 Forked [m-yahya/khuyentran1401](https://github.com/m-yahya/khuyentran1401) from [khuyentran1401/khuyentran1401](https://github.com/khuyentran1401/khuyentran1401)
-4. 🔱 Forked [m-yahya/recent-activity](https://github.com/m-yahya/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. ⭐ Starred [m-yahya/m-yahya](https://github.com/m-yahya/m-yahya)
-<!--RECENT_ACTIVITY:end-->
-
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 6th, 2021, 7:38:01 AM
-<!--RECENT_ACTIVITY:last_update_end-->
-
-
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
